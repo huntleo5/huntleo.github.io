@@ -1,5 +1,3 @@
-# huntleo.github.io
-
 # Data Scientist
 
 ### Education
