@@ -10,8 +10,8 @@ B.S. Marketing
 *Clemson University | December 2015*
 
 ### Tools
-* Programming - Python, R, SQL
-* Data Visualization Tools: Tableau, PowerBI
+* Programming - **Python**, **R**, **SQL**
+* Data Visualization Tools: **Tableau**, **PowerBI**
 * Mathematical Skills: Statistics, Regression Analysis, Cluster Analysis, Linear Optimization
 
 ### Project Experience
