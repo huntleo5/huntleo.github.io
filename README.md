@@ -15,15 +15,13 @@ B.S. Marketing
 * Mathematical Skills: Statistics, Regression Analysis, Cluster Analysis, Linear Optimization
 
 ### Project Experience
-**Python** - https://github.com/huntleo5/Python
+**Python** - https://github.com/huntleo5/Python.git
 
 **SQL** - https://github.com/huntleo5/SQL.git
 
-**R** - https://github.com/huntleo5/R
+**R** - https://github.com/huntleo5/R.git
 
-**SAS** - https://github.com/huntleo5/SAS
-
-https://github.com/huntleo5?tab=repositories
+**SAS** - https://github.com/huntleo5/SAS.git
 
 ### Work Experience                                                                           
 **Senior Recruiter at DHL Supply Chain                   |                    December 2021 - Present**
