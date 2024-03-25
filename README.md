@@ -17,7 +17,7 @@ B.S. Marketing
 ### Project Experience
 **Python**, **SQL**, **R**, and **SAS** projects found at the link below
 
-https://github.com/huntleo5
+https://github.com/huntleo5?tab=repositories
 
 ### Work Experience                                                                           
 **Senior Recruiter at DHL Supply Chain                   |                    December 2021 - Present**
