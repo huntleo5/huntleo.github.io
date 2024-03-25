@@ -15,7 +15,7 @@ B.S. Marketing
 * Mathematical Skills: Statistics, Regression Analysis, Cluster Analysis, Linear Optimization
 
 ### Project Experience
-**Python**, **SQL**, **R**, and **SAS** projects found at the link below
+**Python**, **SQL**, **R**, and **SAS** projects found at the link below:
 
 https://github.com/huntleo5?tab=repositories
 
