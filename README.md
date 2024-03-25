@@ -15,7 +15,7 @@ B.S. Marketing
 * Mathematical Skills: Statistics, Regression Analysis, Cluster Analysis, Linear Optimization
 
 ### Project Experience
-**Python** - 
+**Python** - Agricultural Profit Optimization.ipynb
 **SQL** - 
 **R** - 
 **SAS** - 
