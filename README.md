@@ -17,7 +17,7 @@ B.S. Marketing
 ### Project Experience
 **Python** - https://github.com/huntleo5/Python
 
-**SQL** - https://github.com/huntleo5/SQL
+**SQL** - https://github.com/huntleo5/SQL.git
 
 **R** - https://github.com/huntleo5/R
 
