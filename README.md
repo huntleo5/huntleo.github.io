@@ -10,12 +10,15 @@ B.S. Marketing
 *Clemson University | December 2015*
 
 ### Tools
-* Programming - **Python**, **R**, **SQL**
+* Programming - **Python**, **R**, **SQL**, **SAS**
 * Data Visualization Tools: **Tableau**, **PowerBI**
 * Mathematical Skills: Statistics, Regression Analysis, Cluster Analysis, Linear Optimization
 
 ### Project Experience
-
+**Python** - 
+**SQL** - 
+**R** - 
+**SAS** - 
 
 ### Work Experience                                                                           
 **Senior Recruiter at DHL Supply Chain                   |                    December 2021 - Present**
